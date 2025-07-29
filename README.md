@@ -36,3 +36,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/advanced-terraform-18720794?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQGfrjsVMJJlFg/learning-public-crop_675_1200/0/1673639139822?e=2147483647&v=beta&t=Po6XcY4t4DcIZ__O-16BY24eHt0MPhPODwJl90L1rs0
+something else by giri
